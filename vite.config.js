@@ -14,6 +14,6 @@ export default defineConfig({
     tailwindcss()
 
   ],
-  base:'/fruitshop-react/'
+  base:'/fruitshop'
 
 })
